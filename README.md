@@ -15,8 +15,8 @@ Detta är en Streamlit-applikation som implementerar en RAG (Retrieval-Augmented
 
 1.  **Klona Repositoryt:**
     ```bash
-    git clone <URL-till-ditt-github-repo>
-    cd <repo-namn>/streamlit_app 
+    git clone https://github.com/joelhacker00/streamlit-rag-pdf-chatter.git
+    cd streamlit-rag-pdf-chatter/streamlit_app 
     ```
 
 2.  **Skapa och Aktivera Virtuell Miljö (Rekommenderas):**
