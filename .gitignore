@@ -1,0 +1,38 @@
+# Python Bytecode och Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuella miljöer
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Databasfiler (Specifikt ChromaDB och generellt)
+chroma_db_*/
+*.db
+*.sqlite3
+
+# Känsliga filer
+.env
+*.env
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# IDE/Editor-specifika filer
+.vscode/
+.idea/
+
+# Temporära filer
+*.tmp
+
+# Eventuella loggfiler
+*.log
+
+# Exempelfiler (Valfritt - avkommentera om du INTE vill ladda upp exempelfilen)
+# semster.pdf 
